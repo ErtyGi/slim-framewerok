@@ -1,3 +1,4 @@
+.gitignore
 /bootstrap/
 /vendor
 .env.*.php
